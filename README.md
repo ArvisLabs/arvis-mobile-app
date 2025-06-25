@@ -1,2 +1,3 @@
-# arvis-mobile-app
-Mobile PWA version of ARVIS, built by Roman &amp; ChatGPT
+# ARVIS Mobile App
+
+This is the PWA version of ARVIS.
